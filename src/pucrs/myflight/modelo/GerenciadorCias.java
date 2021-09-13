@@ -42,4 +42,5 @@ public class GerenciadorCias {
 	}
 
 	//primeiro gerenciador que eu vou fazer
+	//oi
 }
